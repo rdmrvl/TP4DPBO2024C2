@@ -3,7 +3,7 @@ TP4DPBO2024C2
 
 Tugas Praktikum 3 DPBO
 
-Saya Marvel Ravindra Dioputra [2200481] TP3 dalam Mata Kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Marvel Ravindra Dioputra [2200481] TP4 dalam Mata Kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 Untuk tugas praktikum ini, membuat program OOP menggunakan PHP yang menerapkan struktur MVC yang dapat melakukan CRUD pada kedua tabel. Tema yang diambil adalah joki game, di mana terdapat form untuk menambahkan member yang ingin menggunakan jasa joki untuk game tertentu, dan form untuk menambahkan game baru. Dalam struktur kode yang saya buat, terdapat dua tabel yaitu "member" dan "game". Tabel "member" memiliki atribut id, nama, email, no_telp, dan game yang ingin di jokikan, sedangkan tabel "game" hanya memiliki atribut id dan nama game.
 
